@@ -22,7 +22,7 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 ### Links
 
 - Solution URL: https://github.com/AllanBartoo/Browser-extension-manager
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://browser-extension-manager-eight.vercel.app
 
 ### Built with
 - Semantic HTML5 markup
