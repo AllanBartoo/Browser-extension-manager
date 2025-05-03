@@ -1,6 +1,7 @@
 # Frontend Mentor - Browser extensions manager UI
 
 This is a solution to the [Browser extensions manager UI challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/browser-extension-manager-ui-yNZnOfsMAp).
+
 ![Design preview for the Browser extensions manager UI coding challenge](./preview.jpg)
 
 ## The challenge
