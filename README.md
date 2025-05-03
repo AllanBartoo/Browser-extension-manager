@@ -21,7 +21,7 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/AllanBartoo/Browser-extension-manager
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
